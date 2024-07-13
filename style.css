@@ -1,0 +1,24 @@
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+.slider {
+    padding: 250px;
+    background-image: url(/images/bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-bottom: 45px;
+    
+
+
+
+
+}
+
+.banner {
+    width: 75%;
+    margin: auto;
+    color: #545454;
+
+
+}
