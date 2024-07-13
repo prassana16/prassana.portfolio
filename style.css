@@ -3,11 +3,12 @@
 }
 
 .slider {
-    padding: 250px;
+    padding: 300px 0px;
     background-image: url(/images/bg.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     margin-bottom: 45px;
+    
     
 
 
@@ -16,9 +17,12 @@
 }
 
 .banner {
-    width: 75%;
+    width: 80%;
     margin: auto;
-    color: #545454;
+    color: #181818;
+    
+    
+   
 
 
 }
